@@ -11,7 +11,9 @@ This project analyses official NPCI chargeback data for March 2025 across 748 ba
 ## Data Source
 
 **Source:** NPCI Official Chargeback Statistics, March 2025  
-**Link:** https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics  
+**Link:** https://www.npci.org.in/what-we-do/upi/upi-ecosystem-statistics
+**Note:** NPCI's website may load slowly or time out occasionally. If the link doesn't render, 
+the raw dataset is available in the `/data` folder of this repository.
 **Records:** 748 banks and payment institutions  
 **Fields:** Bank code, total UPI transactions, chargeback ratio, chargebacks received, re-presentments raised, chargebacks accepted
 
